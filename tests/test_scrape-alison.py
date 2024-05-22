@@ -1,4 +1,5 @@
 import pytest
+import pandas as pd
 from my_script import setup_driver, get_course_links, get_course_details, save_to_excel
 
 def test_setup_driver():
