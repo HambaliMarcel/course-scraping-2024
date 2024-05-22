@@ -2,4 +2,6 @@ pandas
 selenium
 beautifulsoup4
 pytest
-openpyxl 
+openpyxl
+flake8
+pytest-mock
